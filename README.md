@@ -21,4 +21,4 @@ Built with **HTML, CSS, and JavaScript**.
 
 ## 📸 Screenshot
 
-(Add a screenshot here later)
+![App Screenshot](Screenshot.png)
